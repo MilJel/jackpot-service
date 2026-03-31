@@ -1,0 +1,6 @@
+com\jackpot\producer\config\SwaggerConfig.class
+com\jackpot\producer\ProducerApplication.class
+com\jackpot\producer\config\KafkaProducerConfig.class
+com\jackpot\producer\service\BetService.class
+com\jackpot\producer\controller\BetController.class
+com\jackpot\producer\dto\BetRequest.class
